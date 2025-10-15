@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 📫 How to reach me **sarikapandey686@gmail.com**
+- 👨‍💻 LinkedIn Profile [www.linkedin.com/in/sarika-pandey-077a74326](www.linkedin.com/in/sarika-pandey-077a74326)
+
+- 📫 Reach me at **sarikapandey686@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarika-pandey-077a74326?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bxa7bsorcqlmpv49tl3gjkg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarika-pandey-077a74326?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bxa7bsorcqlmpv49tl3gjkg%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarika pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarika pandey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,4 +1,4 @@
-👋 Hi, I'm Sarika  
+👋 Hey there, I'm Sarika  
 🎓 B.Tech (Hons.) in Computer Science & Engineering (AI) — UTD, CSVTU  
 💻 Exploring Machine Learning and Artificial Intelligence  
 📚 I love turning ideas into working prototypes  

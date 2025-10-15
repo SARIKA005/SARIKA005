@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 👨‍💻 LinkedIn Profile [www.linkedin.com/in/sarika-pandey-077a74326](www.linkedin.com/in/sarika-pandey-077a74326)
+- 👨‍💻 LinkedIn Profile https://www.linkedin.com/in/sarika-pandey-077a74326/
 
 - 📫 Reach me at **sarikapandey686@gmail.com**
 
